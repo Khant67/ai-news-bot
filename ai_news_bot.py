@@ -52,6 +52,19 @@ FEEDS = [
 MAX_ITEMS = 18          # Gemini-д өгөх мэдээний дээд тоо
 LOOKBACK_HOURS = 36     # Сүүлийн хэдэн цагийн мэдээг авах
 
+# Ерөнхий технологийн фийдүүд — AI-тай холбоотой мэдээг нь л авна
+GENERAL_FEEDS = {"New Atlas", "Hacker News (AI hits)"}
+AI_PATTERN = re.compile(
+    r"\b(ai|a\.i\.|artificial intelligence|machine learning|deep learning|"
+    r"neural|robot|robotics|gpt|llm|chatbot|openai|gemini|claude|anthropic|"
+    r"deepmind|midjourney|stable diffusion|autonomous|self-driving|algorithm)\b",
+    re.IGNORECASE,
+)
+
+
+def _is_ai_related(text):
+    return bool(AI_PATTERN.search(text))
+
 
 def _clean(text):
     """Токен зэрэг нууц утгыг логоос нуух."""
@@ -123,6 +136,10 @@ def fetch_news():
         for entry in entries[:15]:
             dt = entry["date"] or datetime.now(timezone.utc)
             if dt < cutoff:
+                continue
+            if source in GENERAL_FEEDS and not _is_ai_related(
+                entry["title"] + " " + _strip_tags(entry["summary"])[:300]
+            ):
                 continue
             items.append({
                 "source": source,
