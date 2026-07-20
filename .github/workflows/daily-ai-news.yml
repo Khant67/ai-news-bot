@@ -1,0 +1,66 @@
+name: AI News to Telegram
+
+on:
+  schedule:
+    # 10 минут тутамд: шинэ мэдээ эсвэл fact нийтэлнэ (breaking горим)
+    - cron: "*/10 * * * *"
+    # 01:00 UTC = Улаанбаатарын 09:00 - өглөөний бүтэн дайжест
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Run mode (digest | breaking)"
+        required: false
+        default: "breaking"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ai-news-bot
+  cancel-in-progress: false
+
+jobs:
+  send-news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run bot
+        id: bot
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          MODE: ${{ github.event_name == 'schedule' && (github.event.schedule == '0 1 * * *' && 'digest' || 'breaking') || (github.event.inputs.mode || 'breaking') }}
+        run: |
+          set +e
+          python ai_news_bot.py 2>&1 | tee bot.log
+          echo "exitcode=${PIPESTATUS[0]}" >> "$GITHUB_OUTPUT"
+
+      - name: Save state and log to repo
+        if: always()
+        run: |
+          git config user.name "bot-logger"
+          git config user.email "bot@users.noreply.github.com"
+          cp bot.log last_run.log 2>/dev/null || true
+          git add last_run.log state.json 2>/dev/null || true
+          git commit -m "Bot run $(date -u +%Y-%m-%dT%H:%M)" || echo "no changes"
+          for i in 1 2 3; do
+            git push && break
+            git pull --rebase && sleep 2
+          done
+
+      - name: Fail if bot failed
+        if: steps.bot.outputs.exitcode != '0'
+        run: exit 1
