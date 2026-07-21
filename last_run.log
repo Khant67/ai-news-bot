@@ -1,6 +1,7 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
+[WARN] Hacker News (AI hits) татаж чадсангүй: HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /newest?q=AI&points=150 (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f02ae6de5d0>, 'Connection to hnrss.org timed out. (connect timeout=30)'))
       18 мэдээнээс 8 нь шинэ
-[2/3] Нийтлэх мэдээ: The Army Is Burning Through Its AI Tokens
+[2/3] Нийтлэх мэдээ: Advancing next-gen AI with materials science innovation
 [3/3] Суваг руу илгээж байна...
 [OK] Мессеж амжилттай илгээгдлээ!
