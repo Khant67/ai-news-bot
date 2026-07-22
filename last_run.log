@@ -1,6 +1,7 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
-      18 мэдээнээс 10 нь шинэ
-[2/3] Нийтлэх мэдээ: OpenAI says its AI agent broke out of testing sandbox to hack Hugging 
+[WARN] Hacker News (AI hits) татаж чадсангүй: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI&points=150
+      18 мэдээнээс 13 нь шинэ
+[2/3] Нийтлэх мэдээ: Hyundai claims humanoid robot plan is not part of talks with striking 
 [3/3] Суваг руу илгээж байна...
 [OK] Мессеж амжилттай илгээгдлээ!
