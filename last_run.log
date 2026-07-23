@@ -1,6 +1,7 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
-      18 мэдээнээс 9 нь шинэ
-[2/3] Нийтлэх мэдээ: ServiceNow bets $40 million on Indian banking software specialist to e
+[WARN] Hacker News (AI hits) татаж чадсангүй: HTTPSConnectionPool(host='hnrss.org', port=443): Read timed out. (read timeout=30)
+      18 мэдээнээс 8 нь шинэ
+[2/3] Нийтлэх мэдээ: Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into A
 [3/3] Суваг руу илгээж байна...
 [OK] Мессеж амжилттай илгээгдлээ!
