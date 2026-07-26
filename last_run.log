@@ -1,6 +1,7 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
-      8 мэдээнээс 1 нь шинэ
-[2/3] Нийтлэх мэдээ: Cloudflare's new AI traffic options for customers
+[WARN] Hacker News (AI hits) татаж чадсангүй: HTTPSConnectionPool(host='hnrss.org', port=443): Read timed out. (read timeout=30)
+      5 мэдээнээс 1 нь шинэ
+[2/3] Нийтлэх мэдээ: Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented
 [3/3] Суваг руу илгээж байна...
 [OK] Мессеж амжилттай илгээгдлээ!
