@@ -1,15 +1,7 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
-      18 мэдээнээс 8 нь шинэ
-[2/3] Нийтлэх мэдээ: Influencers draw backlash for attending OpenAI’s first luxury trip
-[WARN] Gemini gemini-flash-lite-latest алдаа 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
+[WARN] Hacker News (AI hits) татаж чадсангүй: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI&points=150
+      17 мэдээнээс 6 нь шинэ
+[2/3] Нийтлэх мэдээ: An AI-supervised remote exam went so badly that 58,000 students must r
 [3/3] Суваг руу илгээж байна...
-[WARN] HTML илгээлт алдаа: {"ok":false,"error_code":400,"description":"Bad Request: can't parse entities: Can't find end tag corresponding to start tag \"b\""} — plain text-ээр оролдож байна
 [OK] Мессеж амжилттай илгээгдлээ!
