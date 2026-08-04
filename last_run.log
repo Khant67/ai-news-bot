@@ -1,7 +1,7 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
-[WARN] Hacker News (AI hits) татаж чадсангүй: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI&points=150
       18 мэдээнээс 9 нь шинэ
-[2/3] Нийтлэх мэдээ: OpenAI drags Apple’s lawsuit into the court of public opinion
+[2/3] Нийтлэх мэдээ: Is the future of data centers portable? Runware builds a pod to find o
+[WARN] Gemini gemini-flash-lite-latest холболтын алдаа: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)
 [3/3] Суваг руу илгээж байна...
 [OK] Мессеж амжилттай илгээгдлээ!
