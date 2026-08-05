@@ -1,6 +1,7 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
-      18 мэдээнээс 10 нь шинэ
-[2/3] Нийтлэх мэдээ: Google Assistant will disappear from your phone next month
+      18 мэдээнээс 9 нь шинэ
+[2/3] Нийтлэх мэдээ: MacPaw taps Liquid AI to offer on-device inference to devs building fo
+[WARN] Gemini gemini-flash-lite-latest холболтын алдаа: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)
 [3/3] Суваг руу илгээж байна...
 [OK] Мессеж амжилттай илгээгдлээ!
