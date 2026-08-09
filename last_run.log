@@ -1,7 +1,6 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
-[WARN] Hacker News (AI hits) татаж чадсангүй: HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /newest?q=AI&points=150 (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f68db179b80>, 'Connection to hnrss.org timed out. (connect timeout=30)'))
-      8 мэдээнээс 1 нь шинэ
-[2/3] Нийтлэх мэдээ: These AI Barons Are Ready to Give Away Their Fortunes
+      9 мэдээнээс 1 нь шинэ
+[2/3] Нийтлэх мэдээ: Meetily Lets You Transcribe and Summarize Meetings Without a Subscript
 [3/3] Суваг руу илгээж байна...
 [OK] Мессеж амжилттай илгээгдлээ!
