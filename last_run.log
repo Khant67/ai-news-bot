@@ -1,6 +1,9 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
+[WARN] Hacker News (AI hits) татаж чадсангүй: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI&points=150
       18 мэдээнээс 1 нь шинэ
-[2/3] Нийтлэх мэдээ: AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia
+[2/3] Нийтлэх мэдээ: AI Is Dead. Organoids Are Alive
+[WARN] Gemini gemini-flash-lite-latest холболтын алдаа: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)
 [3/3] Суваг руу илгээж байна...
+[WARN] HTML илгээлт алдаа: {"ok":false,"error_code":400,"description":"Bad Request: can't parse entities: Unexpected end tag at byte offset 89"} — plain text-ээр оролдож байна
 [OK] Мессеж амжилттай илгээгдлээ!
