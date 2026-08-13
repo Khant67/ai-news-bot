@@ -1,7 +1,7 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] Hacker News (AI hits) татаж чадсангүй: HTTPSConnectionPool(host='hnrss.org', port=443): Read timed out. (read timeout=30)
-      18 мэдээнээс 12 нь шинэ
-[2/3] Нийтлэх мэдээ: OpenAI is losing its second executive this week
+      18 мэдээнээс 11 нь шинэ
+[2/3] Нийтлэх мэдээ: OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work 
 [3/3] Суваг руу илгээж байна...
 [OK] Мессеж амжилттай илгээгдлээ!
