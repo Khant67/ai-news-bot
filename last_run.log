@@ -1,8 +1,6 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
-[WARN] Hacker News (AI hits) татаж чадсангүй: HTTPSConnectionPool(host='hnrss.org', port=443): Read timed out. (read timeout=30)
-      18 мэдээнээс 11 нь шинэ
-[2/3] Нийтлэх мэдээ: Microsoft’s Clippy-like Mico character is no longer the face of Copilo
-[INFO] Бичлэг олдлоо: https://www.youtube.com/watch?v=lZfJ0OXVDPE
+      18 мэдээнээс 10 нь шинэ
+[2/3] Нийтлэх мэдээ: The Safety Reckoning Inside OpenAI
 [3/3] Суваг руу илгээж байна...
 [OK] Мессеж амжилттай илгээгдлээ!
