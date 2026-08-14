@@ -1,6 +1,8 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
+[WARN] Hacker News (AI hits) татаж чадсангүй: HTTPSConnectionPool(host='hnrss.org', port=443): Read timed out. (read timeout=30)
       18 мэдээнээс 3 нь шинэ
-[2/3] Нийтлэх мэдээ: Apple trained its own AI model for China with help from Alibaba
+[2/3] Нийтлэх мэдээ: MIT's autonomous robotic tiles build floating structures on water
+[INFO] Бичлэг олдлоо: https://www.youtube.com/watch?v=Iz39zo1StCQ
 [3/3] Суваг руу илгээж байна...
 [OK] Мессеж амжилттай илгээгдлээ!
