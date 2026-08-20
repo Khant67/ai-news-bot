@@ -1,6 +1,7 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
-      18 мэдээнээс 5 нь шинэ
-[2/3] Нийтлэх мэдээ: Runlayer, Rippling drop lawsuits — but the brouhaha is still a caution
+[WARN] Hacker News (AI hits) татаж чадсангүй: HTTPSConnectionPool(host='hnrss.org', port=443): Read timed out. (read timeout=30)
+      18 мэдээнээс 4 нь шинэ
+[2/3] Нийтлэх мэдээ: Linkdaze’s smart calendar is built to run a household, not just track 
 [3/3] Суваг руу илгээж байна...
 [OK] Мессеж амжилттай илгээгдлээ!
