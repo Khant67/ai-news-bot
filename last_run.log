@@ -1,9 +1,6 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
-      18 мэдээнээс 4 нь шинэ
-[2/3] Нийтлэх мэдээ: OpenAI says its Jalapeño chip can power faster AI responses than the c
-[WARN] Gemini gemini-flash-lite-latest холболтын алдаа: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)
-[WARN] Gemini gemini-flash-latest холболтын алдаа: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)
-[WARN] Gemini gemini-3.7-flash холболтын алдаа: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)
+      18 мэдээнээс 6 нь шинэ
+[2/3] Нийтлэх мэдээ: AI won’t replace radiologists, but it will dramatically change their j
 [3/3] Суваг руу илгээж байна...
 [OK] Мессеж амжилттай илгээгдлээ!
