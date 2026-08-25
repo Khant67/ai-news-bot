@@ -1,6 +1,7 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
-      18 мэдээнээс 1 нь шинэ
-[2/3] Нийтлэх мэдээ: Claude will now watermark all content generated using its tools
+[WARN] Hacker News (AI hits) татаж чадсангүй: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI&points=150
+      17 мэдээнээс 0 нь шинэ
+[2/3] Шинэ мэдээ алга — fact нийтэлнэ...
 [3/3] Суваг руу илгээж байна...
 [OK] Мессеж амжилттай илгээгдлээ!
