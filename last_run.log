@@ -1,6 +1,7 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
+[WARN] Hacker News (AI hits) татаж чадсангүй: HTTPSConnectionPool(host='hnrss.org', port=443): Read timed out. (read timeout=30)
       18 мэдээнээс 1 нь шинэ
-[2/3] Нийтлэх мэдээ: OpenAI loses a top data center exec, as stream of high-profile departu
+[2/3] Нийтлэх мэдээ: Robotics startup Generalist reaches $3B valuation, sources say
 [3/3] Суваг руу илгээж байна...
 [OK] Мессеж амжилттай илгээгдлээ!
