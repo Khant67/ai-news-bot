@@ -1,8 +1,7 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
-[WARN] Hacker News (AI hits) татаж чадсангүй: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI&points=150
       18 мэдээнээс 16 нь шинэ
-[2/3] Нийтлэх мэдээ: Trump’s EPA wants to let data centers hide their air pollution
+[2/3] Нийтлэх мэдээ: Neocloud Lambda secures $1B in debt to buy more chips
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
