@@ -1,9 +1,8 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
-[WARN] Hacker News (AI hits) татаж чадсангүй: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI&points=150
-      11 мэдээнээс 5 нь шинэ
-[2/3] Нийтлэх мэдээ: Inside Meta’s push to put robots to work in data centers
-[INFO] Бичлэг олдлоо: https://www.youtube.com/watch?v=sBEHT4ZOQHk
+[WARN] Hacker News (AI hits) татаж чадсангүй: HTTPSConnectionPool(host='hnrss.org', port=443): Read timed out. (read timeout=30)
+      12 мэдээнээс 5 нь шинэ
+[2/3] Нийтлэх мэдээ: Caterpillar is bringing to AI deployment what it learned from automati
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
