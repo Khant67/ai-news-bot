@@ -1,7 +1,8 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
-      18 мэдээнээс 13 нь шинэ
-[2/3] Нийтлэх мэдээ: The rise of AI &#8216;civilizations&#8217; and the fall of corporate r
+[WARN] Hacker News (AI hits) татаж чадсангүй: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI&points=150
+      18 мэдээнээс 15 нь шинэ
+[2/3] Нийтлэх мэдээ: Open AI’s Astra model is on the way—and very good at breaking into com
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
