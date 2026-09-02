@@ -1,8 +1,8 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
-[WARN] Hacker News (AI hits) татаж чадсангүй: HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /newest?q=AI&points=150 (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f4e7230e870>, 'Connection to hnrss.org timed out. (connect timeout=30)'))
-      18 мэдээнээс 13 нь шинэ
-[2/3] Нийтлэх мэдээ: Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 perce
+[WARN] Hacker News (AI hits) татаж чадсангүй: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI&points=150
+      18 мэдээнээс 12 нь шинэ
+[2/3] Нийтлэх мэдээ: The future of work sounds like whispering to your computer
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
