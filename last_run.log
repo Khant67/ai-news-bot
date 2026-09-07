@@ -1,10 +1,8 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-[WARN] Hacker News (AI hits) татаж чадсангүй: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI&points=150
-      7 мэдээнээс 2 нь шинэ
-[2/3] Нийтлэх мэдээ: The complex corporate web behind a $3.2 billion AI data center
-[INFO] Бичлэг олдлоо: https://www.youtube.com/watch?v=pp8Buh03bXE
+      10 мэдээнээс 3 нь шинэ
+[2/3] Нийтлэх мэдээ: Opaque recurrence, and other AI terms that you should probably know
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
