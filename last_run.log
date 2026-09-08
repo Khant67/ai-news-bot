@@ -1,8 +1,8 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-      6 мэдээнээс 2 нь шинэ
-[2/3] Нийтлэх мэдээ: Adobe is trying to make its AI generators idiot-proof in Premiere
+      15 мэдээнээс 10 нь шинэ
+[2/3] Нийтлэх мэдээ: OpenAI fought dirty on career-making math problem, says NYU mathematic
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
