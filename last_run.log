@@ -1,11 +1,14 @@
-[INFO] Горим: breaking
-[1/3] Шинэ мэдээ шалгаж байна...
+[INFO] Горим: digest
+[1/3] Мэдээ татаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-      18 мэдээнээс 15 нь шинэ
-[2/3] Нийтлэх мэдээ: Why this month's Microsoft patch release is a doozy
+      18 мэдээ олдлоо
+[2/3] Gemini-гээр дайжест үүсгэж байна...
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-a
-[3/3] Суваг руу илгээж байна...
+[3/3] Telegram руу илгээж байна...
+[WARN] HTML илгээлт алдаа: {"ok":false,"error_code":400,"description":"Bad Request: can't parse entities: Empty attribute name in the tag \"a\" at byte offset 1994"} — plain text-ээр оролдож байна
+[OK] Мессеж амжилттай илгээгдлээ!
+[WARN] HTML илгээлт алдаа: {"ok":false,"error_code":400,"description":"Bad Request: can't parse entities: Empty attribute name in the tag \"a\" at byte offset 1994"} — plain text-ээр оролдож байна
 [OK] Мессеж амжилттай илгээгдлээ!
