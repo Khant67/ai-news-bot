@@ -1,8 +1,8 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-      18 мэдээнээс 11 нь шинэ
-[2/3] Нийтлэх мэдээ: Nscale adds former OpenAI exec Fidji Simo to its board ahead of potent
+      18 мэдээнээс 16 нь шинэ
+[2/3] Нийтлэх мэдээ: Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ f
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
