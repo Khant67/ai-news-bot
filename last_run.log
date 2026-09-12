@@ -1,9 +1,9 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-      18 мэдээнээс 12 нь шинэ
-[2/3] Нийтлэх мэдээ: I spent $4,000 on a robot dog from China
-[INFO] Бичлэг олдлоо: https://www.youtube.com/watch?v=RyzP5Mb9nw4
+[WARN] Hacker News (AI hits) татаж чадсангүй: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI&points=150
+      18 мэдээнээс 11 нь шинэ
+[2/3] Нийтлэх мэдээ: Anthropic CEO says it’s time to pump the brakes on AI
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
