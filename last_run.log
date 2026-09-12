@@ -3,7 +3,7 @@
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
 [WARN] Hacker News (AI hits) татаж чадсангүй: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI&points=150
       18 мэдээнээс 11 нь шинэ
-[2/3] Нийтлэх мэдээ: Lawyer fined $5K over AI-hallucinated witnesses in a murder case
+[2/3] Нийтлэх мэдээ: From Hacks to Bioweapons, Claude Misuse Is Now Everywhere
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
