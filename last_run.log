@@ -3,7 +3,8 @@
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
 [WARN] Hacker News (AI hits) татаж чадсангүй: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI&points=150
       18 мэдээнээс 10 нь шинэ
-[2/3] Нийтлэх мэдээ: Anthropic CEO outlines plan to ‘pace the frontier’
+[2/3] Нийтлэх мэдээ: Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’
+[INFO] Бичлэг олдлоо: https://www.youtube.com/watch?v=2my-NU6LuCM
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
