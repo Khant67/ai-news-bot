@@ -1,8 +1,8 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-      14 мэдээнээс 6 нь шинэ
-[2/3] Нийтлэх мэдээ: AI Agents Are Thirsty for Power
+      14 мэдээнээс 5 нь шинэ
+[2/3] Нийтлэх мэдээ: Why are AI agents lying, cheating and coordinating?
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
