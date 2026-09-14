@@ -1,8 +1,8 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-      15 мэдээнээс 4 нь шинэ
-[2/3] Нийтлэх мэдээ: What’s behind the AI industry’s latest warnings of doom?
+      15 мэдээнээс 3 нь шинэ
+[2/3] Нийтлэх мэдээ: Real-SWE: Benchmarking AI models on private, real-world, enterprise co
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
