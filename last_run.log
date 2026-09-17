@@ -3,7 +3,7 @@
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
 [WARN] Hacker News (AI hits) татаж чадсангүй: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI&points=150
       18 мэдээнээс 14 нь шинэ
-[2/3] Нийтлэх мэдээ: Hybrid human-mouse brain created in landmark lab experiment
+[2/3] Нийтлэх мэдээ: Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
