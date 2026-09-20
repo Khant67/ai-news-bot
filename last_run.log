@@ -2,7 +2,7 @@
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
       18 мэдээнээс 10 нь шинэ
-[2/3] Нийтлэх мэдээ: No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears a
+[2/3] Нийтлэх мэдээ: World model companies are keeping a lot of secrets
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
