@@ -1,9 +1,8 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-      18 мэдээнээс 13 нь шинэ
-[2/3] Нийтлэх мэдээ: OpenAI pauses training of its ‘most capable models’
-[INFO] Бичлэг олдлоо: https://www.youtube.com/watch?v=3zcaezFYGds
+      18 мэдээнээс 12 нь шинэ
+[2/3] Нийтлэх мэдээ: 3D-printed Martian mud homes look critical for life beyond Earth
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
