@@ -1,9 +1,8 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-[WARN] Hacker News (AI hits) татаж чадсангүй: HTTPSConnectionPool(host='hnrss.org', port=443): Read timed out. (read timeout=30)
-      18 мэдээнээс 13 нь шинэ
-[2/3] Нийтлэх мэдээ: OpenAI safety employee resigns, claiming the company’s ‘culture is bro
+      18 мэдээнээс 12 нь шинэ
+[2/3] Нийтлэх мэдээ: Amazon responds to data center backlash, says it no longer uses NDAs
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
