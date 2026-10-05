@@ -1,8 +1,9 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-      17 мэдээнээс 9 нь шинэ
-[2/3] Нийтлэх мэдээ: Google froze its open source bug bounty program due to a ‘significant 
+      16 мэдээнээс 8 нь шинэ
+[2/3] Нийтлэх мэдээ: Can ‘super intelligence’ and a non-binding safety pact solve AI’s imag
+[INFO] Бичлэг олдлоо: https://www.youtube.com/watch?v=WDZZVT03OHs
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
