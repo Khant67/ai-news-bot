@@ -1,8 +1,8 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-      18 мэдээнээс 13 нь шинэ
-[2/3] Нийтлэх мэдээ: Apple discloses deal to hire team and license tech from personalized p
+      18 мэдээнээс 12 нь шинэ
+[2/3] Нийтлэх мэдээ: Satya Nadella says we should assume all AI models are ‘compromised’
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
