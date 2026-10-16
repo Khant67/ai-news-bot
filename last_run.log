@@ -1,8 +1,8 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-      18 мэдээнээс 13 нь шинэ
-[2/3] Нийтлэх мэдээ: Replit’s CEO says the future of work is the ‘self-driving company’
+      18 мэдээнээс 14 нь шинэ
+[2/3] Нийтлэх мэдээ: India becomes the latest country to report rogue AI agent activity
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
