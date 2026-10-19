@@ -1,9 +1,9 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-      18 мэдээнээс 9 нь шинэ
-[2/3] Нийтлэх мэдээ: AI game clones are making indie developers afraid to show their work
-[INFO] Бичлэг олдлоо: https://www.youtube.com/watch?v=_4tmVdKPgUA
+[WARN] Hacker News (AI hits) татаж чадсангүй: HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /newest?q=AI&points=150 (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fe682972150>, 'Connection to hnrss.org timed out. (connect timeout=30)'))
+      18 мэдээнээс 17 нь шинэ
+[2/3] Нийтлэх мэдээ: Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
