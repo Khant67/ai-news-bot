@@ -1,8 +1,8 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-      15 мэдээнээс 3 нь шинэ
-[2/3] Нийтлэх мэдээ: Anthropic gives outside AI watchdog “employee-like” access
+      12 мэдээнээс 2 нь шинэ
+[2/3] Нийтлэх мэдээ: Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B 
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
