@@ -2,7 +2,7 @@
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
       18 мэдээнээс 14 нь шинэ
-[2/3] Нийтлэх мэдээ: OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer
+[2/3] Нийтлэх мэдээ: This Startup Is All In on Recursive Self-Improvement. Its Latest Model
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
