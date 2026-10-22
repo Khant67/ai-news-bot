@@ -2,7 +2,7 @@
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
       18 мэдээнээс 17 нь шинэ
-[2/3] Нийтлэх мэдээ: Chinese hackers spied on thousands of companies after breaching IT gia
+[2/3] Нийтлэх мэдээ: Meta&#8217;s AI could still scrape news sites, legal experts say
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
