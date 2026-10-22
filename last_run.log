@@ -2,7 +2,7 @@
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
       18 мэдээнээс 14 нь шинэ
-[2/3] Нийтлэх мэдээ: Hackers Exploited the PHP Vulnerabilities Days Before They Were Patche
+[2/3] Нийтлэх мэдээ: Claude did not invent scorpion antivenom
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
