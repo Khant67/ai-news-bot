@@ -1,8 +1,9 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-      17 мэдээнээс 9 нь шинэ
-[2/3] Нийтлэх мэдээ: Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks De
+      17 мэдээнээс 10 нь шинэ
+[2/3] Нийтлэх мэдээ: Pennsylvania will require labels on AI-generated ads
+[INFO] Бичлэг олдлоо: https://www.youtube.com/watch?v=zvfHKeqHFNw
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
