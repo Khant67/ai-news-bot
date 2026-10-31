@@ -2,8 +2,7 @@
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
       18 мэдээнээс 13 нь шинэ
-[2/3] Нийтлэх мэдээ: I built an AI Tamagotchi before Meta could
-[INFO] Бичлэг олдлоо: https://www.youtube.com/watch?v=vt-VcPCTqSo
+[2/3] Нийтлэх мэдээ: Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
