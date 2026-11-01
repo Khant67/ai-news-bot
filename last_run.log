@@ -1,8 +1,8 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-      18 мэдээнээс 13 нь шинэ
-[2/3] Нийтлэх мэдээ: Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’
+      18 мэдээнээс 12 нь шинэ
+[2/3] Нийтлэх мэдээ: 4 days left: How TechCrunch Founder Summit helps you make more useful 
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
