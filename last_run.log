@@ -1,8 +1,8 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-      12 мэдээнээс 7 нь шинэ
-[2/3] Нийтлэх мэдээ: Stop counting tokens, start counting what ships
+      18 мэдээнээс 17 нь шинэ
+[2/3] Нийтлэх мэдээ: Anthropic warns that it’s very close to RSI capability, aka self-build
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
