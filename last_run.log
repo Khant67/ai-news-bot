@@ -1,8 +1,8 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-      18 мэдээнээс 17 нь шинэ
-[2/3] Нийтлэх мэдээ: Anthropic is working on a system to prove AI models’ identity
+      18 мэдээнээс 16 нь шинэ
+[2/3] Нийтлэх мэдээ: The biggest modding site in PC gaming is taking a stance on AI
 [WARN] Gemini gemini-omni-1.1-flash алдаа 429: {
   "error": {
     "code": 429,
