@@ -1,8 +1,8 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-      18 мэдээнээс 17 нь шинэ
-[2/3] Нийтлэх мэдээ: Palo Alto Networks in talks to buy AI agent security startup Clutch fo
+      18 мэдээнээс 16 нь шинэ
+[2/3] Нийтлэх мэдээ: AI Companies Really, Really Want to Buy Your Work Files and Emails
 [WARN] Gemini gemini-omni-1.2-flash алдаа 429: {
   "error": {
     "code": 429,
