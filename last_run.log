@@ -1,8 +1,9 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-      18 мэдээнээс 16 нь шинэ
-[2/3] Нийтлэх мэдээ: Who could replace Jensen Huang? A highly unscientific list of possible
+      18 мэдээнээс 18 нь шинэ
+[2/3] Нийтлэх мэдээ: Oh, Palantir is ‘progressive’ now, is it?
+[INFO] Бичлэг олдлоо: https://www.youtube.com/watch?v=RG9fdLzxTaw
 [WARN] Gemini gemini-omni-1.2-flash алдаа 429: {
   "error": {
     "code": 429,
