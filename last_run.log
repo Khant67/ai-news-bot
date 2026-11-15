@@ -1,9 +1,8 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-      13 мэдээнээс 8 нь шинэ
-[2/3] Нийтлэх мэдээ: All AI-generated code should be Open Source
-[INFO] Бичлэг олдлоо: https://www.youtube.com/watch?v=W3bF4ASGJWA
+      16 мэдээнээс 10 нь шинэ
+[2/3] Нийтлэх мэдээ: Jensen Huang might be plotting a return and more of the latest Nvidia 
 [WARN] Gemini gemini-omni-1.2-flash алдаа 429: {
   "error": {
     "code": 429,
