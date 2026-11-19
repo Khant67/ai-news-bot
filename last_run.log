@@ -1,8 +1,8 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-      18 мэдээнээс 16 нь шинэ
-[2/3] Нийтлэх мэдээ: Former Alibaba exec’s Everful raises $48.5M to connect retailers with 
+      18 мэдээнээс 17 нь шинэ
+[2/3] Нийтлэх мэдээ: Apple is hiring engineers to build its own AI agent
 [WARN] Gemini gemini-omni-1.2-flash алдаа 429: {
   "error": {
     "code": 429,
