@@ -1,8 +1,8 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-      15 мэдээнээс 10 нь шинэ
-[2/3] Нийтлэх мэдээ: We haven’t seen the last of the major tech outages
+      14 мэдээнээс 8 нь шинэ
+[2/3] Нийтлэх мэдээ: How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic bef
 [WARN] Gemini gemini-omni-1.2-flash алдаа 429: {
   "error": {
     "code": 429,
