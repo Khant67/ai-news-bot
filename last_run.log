@@ -1,8 +1,8 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-      18 мэдээнээс 16 нь шинэ
-[2/3] Нийтлэх мэдээ: Amazon is reportedly in talks to end Muse AI shopping block
+      18 мэдээнээс 17 нь шинэ
+[2/3] Нийтлэх мэдээ: S&P considers Nvidia credit downgrade over governance and ‘key man’ ri
 [WARN] Gemini gemini-omni-1.2-flash алдаа 429: {
   "error": {
     "code": 429,
