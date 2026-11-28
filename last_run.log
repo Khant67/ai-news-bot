@@ -1,9 +1,9 @@
 [INFO] Горим: breaking
 [1/3] Шинэ мэдээ шалгаж байна...
 [WARN] VentureBeat AI татаж чадсангүй: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
-      10 мэдээнээс 7 нь шинэ
-[2/3] Нийтлэх мэдээ: Android’s DIY widgets are a bit of vibe-coding fun
-[INFO] Бичлэг олдлоо: https://www.youtube.com/watch?v=MKreFZj3wqU
+[WARN] Hacker News (AI hits) татаж чадсангүй: 502 Server Error: Bad Gateway for url: https://hnrss.org/newest?q=AI&points=150
+      4 мэдээнээс 2 нь шинэ
+[2/3] Нийтлэх мэдээ: Nvidia hits pause on chip shipments to Southeast Asia
 [WARN] Gemini gemini-omni-1.2-flash алдаа 429: {
   "error": {
     "code": 429,
